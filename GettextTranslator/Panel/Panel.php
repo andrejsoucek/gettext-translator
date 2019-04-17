@@ -1,6 +1,6 @@
 <?php
 
-namespace Webwings\Gettext\Translator;
+namespace GettextTranslator;
 
 use Latte\Loaders\FileLoader;
 use Nette;
