@@ -30,9 +30,9 @@
         "classmap": ["GettextTranslator/"]
     },
     "require": {
-        "php": ">=7.1.0",
+        "php": "^7.1|^8.0",
         "tracy/tracy": ">=2.4",
         "sepia/po-parser": "5.1.5",
-        "nette/di": "^3.0"
+        "nette/di": "^3.0|^4.0"
     }
 }
